@@ -1,4 +1,11 @@
-### Hi there 👋
+2019.05から2020.10までRailsエンジニアとして働いており、現在就職活動中＆FJORD BOOT CAMPで学習中です
+
+### Link
+- [twitter](https://twitter.com/hogucc)
+- [はてなブログ](https://hogucc.hatenablog.com/)
+- [Qiita](https://qiita.com/hogucc)
+- [Scrapbox](https://scrapbox.io/ukuh1r8-86980398/)
+- [Zenn](https://zenn.dev/hogucc)
 
 <!--
 **hogucc/hogucc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
