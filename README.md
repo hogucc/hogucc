@@ -1,5 +1,7 @@
 2019.05から2020.10までRailsエンジニアとして働いており、現在就職活動中＆FJORD BOOT CAMPで学習中です
 
+[![](https://raw.githubusercontent.com/hogucc/github-profile-summary-cards/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ### Link
 - [twitter](https://twitter.com/hogucc)
 - [はてなブログ](https://hogucc.hatenablog.com/)
