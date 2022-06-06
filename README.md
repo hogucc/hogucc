@@ -4,6 +4,7 @@ Ruby / Ruby on Rails
 
 ### Link
 - [twitter](https://twitter.com/hogucc)
+- [today I learned](https://til-hogucc.netlify.app/)
 - [はてなブログ](https://hogucc.hatenablog.com/)
 - [Qiita](https://qiita.com/hogucc)
 - [Scrapbox](https://scrapbox.io/ukuh1r8-86980398/)
